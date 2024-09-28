@@ -1,0 +1,26 @@
+body{
+    background-image: url('robin-padilla.jpg');
+}
+
+.button1{
+    border: none;
+    background-color: red;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-top: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+    font-size:medium 5;
+}
+.p1{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: medium 50px;
+}
+.p2{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: medium 50px;
+}
